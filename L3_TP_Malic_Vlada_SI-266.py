@@ -258,8 +258,8 @@ class Student:
         # Daca nu are nicio nota, returneaza 0.
         if len(self.note) == 0:
             return 0
-    media = sum(self.note) / len(self.note)
-    return round(media, 2)
+        media = sum(self.note) / len(self.note)
+        return round(media, 2)
     
 # --- Sarcina 11: Dicționare --------------------------------------------------
 # Scrie funcția frecventa_litere(text), care primește un șir de caractere
