@@ -18,7 +18,7 @@
 
    2. Porneste programul:
 
-          python L7_TP_Nume_Prenume_SI-26x.py
+          python L7_TP_Malic_Vlada_SI-266.py
 
    3. Iti apare un meniu. Incepe cu optiunea 4, "Cum se lucreaza".
 
