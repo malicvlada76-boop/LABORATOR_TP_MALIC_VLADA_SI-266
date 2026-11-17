@@ -1,0 +1,55 @@
+{
+  "procese": 7,
+  "suspecte": [
+    {
+      "pid": 3120,
+      "nume": "update.exe",
+      "user": "ana",
+      "cale": "C:\\Users\\ana\\AppData\\Local\\Temp\\update.exe"
+    },
+    {
+      "pid": 3890,
+      "nume": "svch0st.exe",
+      "user": "ana",
+      "cale": "C:\\Users\\ana\\AppData\\Roaming\\svch0st.exe"
+    }
+  ],
+  "evenimente": 8,
+  "alarma": [
+    {
+      "id": 4625,
+      "nivel": "warning",
+      "sursa": "Security",
+      "cont": "administrator",
+      "mesaj": "An account failed to log on"
+    },
+    {
+      "id": 4625,
+      "nivel": "warning",
+      "sursa": "Security",
+      "cont": "administrator",
+      "mesaj": "An account failed to log on"
+    },
+    {
+      "id": 7045,
+      "nivel": "warning",
+      "sursa": "Service Control Manager",
+      "cont": "SYSTEM",
+      "mesaj": "A service was installed in the system"
+    },
+    {
+      "id": 6008,
+      "nivel": "critical",
+      "sursa": "EventLog",
+      "cont": "SYSTEM",
+      "mesaj": "The previous system shutdown was unexpected"
+    },
+    {
+      "id": 1102,
+      "nivel": "critical",
+      "sursa": "Security",
+      "cont": "administrator",
+      "mesaj": "The audit log was cleared"
+    }
+  ]
+}
